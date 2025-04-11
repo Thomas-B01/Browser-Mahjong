@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#gameboard{
+    margin-top: 50px;
+}
+#playerhands{
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    margin: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
